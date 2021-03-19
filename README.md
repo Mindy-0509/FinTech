@@ -16,9 +16,8 @@
   
   
 #### 基礎markdown語法
-
-  1. Heading	# H1  ## H2  ### H3
-   <br>
+ 1. Heading	# H1  ## H2  ### H3
+  <br>
   2. Bold	**bold text**
   <br>
   3. Italic	*italicized text*
@@ -35,8 +34,8 @@
 　<br>
   7.　Code	`code`
   <br>
-　8.　Horizontal Rule	---
- <br>
-　9.　Link	[title]https://www.example.com
- <br>
-　10.　Image	![alt text](image.jpg)
+  8.　Horizontal Rule	---
+  <br>
+  9.　Link	[title]https://www.example.com
+  <br>
+  10.　Image	![alt text](image.jpg)
