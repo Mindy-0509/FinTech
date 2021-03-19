@@ -38,4 +38,4 @@
   <br>
   9.　Link	[title]https://www.example.com
   <br>
-  10.　Image	![alt text](image.jpg)
+ 10.　Image	![alt text](image.jpg)
