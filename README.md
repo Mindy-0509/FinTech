@@ -7,12 +7,12 @@ Major: Data Science<br>
 Student ID: 08170111
 
 ## HomeWork
-1. HW1
-2. HW2
-3. HW3
-4. HW4
-5. HW5
-6. HW6 
+ * HW1
+ * HW2
+ * HW3
+ * HW4
+ * HW5
+ * HW6 
 
 ## Project
   #### 玉山證券 - 個人投資風險管家
