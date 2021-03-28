@@ -6,7 +6,7 @@ School: Soochow University<br>
 Major: Data Science<br>
 Student ID: 08170111
 
-## HomeWork
+## Homework
  * HW1 : What do you think of Cloud Computing ?
  * HW2 : Build a Website using Amazon EC2 with LAMP
  * HW3 : Build a Website using Amazon S3(Versioning)and AWS Amplify
