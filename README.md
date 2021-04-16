@@ -20,6 +20,19 @@
 ## Project
   #### 玉山證券 - 個人投資風險管家
   
-   Trello : [https://trello.com/b/FZiFPXzt/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4](https://trello.com/b/FZiFPXzt/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)
+   專案管理 : [Trello](https://trello.com/b/FZiFPXzt/%E9%80%B2%E5%BA%A6%E8%BF%BD%E8%B9%A4)
+   業師 : 詹益安
+   組長 : 雷沅翰
+   組員 : 卓大一、尚旻儀、黃子騰
+   
+   
+   #### 會議記錄
+     日期  |  內容
+     3/25 | 初步討論with業師
+     3/28 | 討論&破冰
+     4/09 | 討論with業師：方向釐清
+     4/11 | 討論：分工&股票常識學習
+     
+   
   
 
