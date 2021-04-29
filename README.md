@@ -13,7 +13,7 @@
 [HW2](https://youtu.be/bIza-zaoWOw) | 04/05 | Build a Website using Amazon EC2 with LAMP  |  [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)
 [HW3](https://youtu.be/WwyWl4AHgdk)  |  04/05  |  Build a Website using Amazon S3(Versioning)and AWS Amplify  |  [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 [HW4](https://youtu.be/fBRWKxSiZpQ)  |  04/26  |  Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda  |  [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
-[HW5]  |  05/03  |  Create a Database using Amazon RDS or Amazon DynamoDB  |  [AWS RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
+[HW5](https://youtu.be/5N2Dok2FGrU)  |  05/03  |  Create a Database using Amazon RDS or Amazon DynamoDB  |  [AWS RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
 [HW6]  |  05/17  |  Create a Docker Container or Build your own Project Services  |  
 
 
