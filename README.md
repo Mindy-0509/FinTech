@@ -1,7 +1,7 @@
 # FINTECH 109.2
 
 ## Introduction
- * Name: 尚旻儀<br>
+ * Name: 尚旻儀  (Min-Yi Shang)<br>
  * School: Soochow University<br>
  * Major: Data Science<br>
  * Student ID: 08170111
